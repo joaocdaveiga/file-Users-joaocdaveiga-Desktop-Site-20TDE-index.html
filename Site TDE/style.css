@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f3eb; /* um bege claro como a cor de fundo para o corpo todo */
+}
+
+header {
+    background-color: #52656b; /* um azul petróleo como cor de fundo do cabeçalho */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: #fff; /* branco para o texto do título do cabeçalho */
+}
+
+nav {
+    background-color: #788c7a; /* um verde musgo para a barra de navegação */
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    color: #fff; /* branco para o texto dos links de navegação */
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+main h2 {
+    color: #c84e4e; /* um vermelho queimado para o texto dos subtítulos */
+}
+
+main p, main ul {
+    color: #2a3132; /* um cinza escuro para o texto dos parágrafos e listas */
+}
+
+main ul {
+    list-style-type: none;
+}
